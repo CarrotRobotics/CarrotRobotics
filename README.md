@@ -32,9 +32,7 @@ Before pursuing my Ph.D. in Japan, I worked as a research scientist at the **Xio
 **The University of Electro-Communications (UEC)**  
 Tokyo, Japan  
 
-Major:
-
-**Mechanical and Intelligent Systems Engineering**
+Major: **Mechanical and Intelligent Systems Engineering**
 
 ---
 
@@ -42,13 +40,9 @@ Major:
 
 **China University of Petroleum (Beijing)**  
 
-Major:
+Major: **Computer Technology**
 
-**Computer Technology**
-
-Research Laboratory:
-
-**Beijing Key Laboratory**
+Research Laboratory: **Beijing Key Laboratory**
 
 ---
 
@@ -56,9 +50,7 @@ Research Laboratory:
 
 **Emergency Management University**
 
-Major:
-
-**Network Engineering**
+Major: **Network Engineering**
 
 ---
 
