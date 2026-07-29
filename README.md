@@ -30,7 +30,6 @@ Before pursuing my Ph.D. in Japan, I worked as a research scientist at the **Xio
 ## 🇯🇵 Ph.D. Student
 
 **The University of Electro-Communications (UEC)**  
-Tokyo, Japan  
 
 Major: **Mechanical and Intelligent Systems Engineering**
 
