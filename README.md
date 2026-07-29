@@ -16,11 +16,17 @@ I am **Xu Wang**, a Ph.D. student at the **University of Electro-Communications 
 
 My research focuses on intelligent robotic systems, including:
 
-- 🤖 Socially Interactive Robots
-- 👁️ Robot Vision and Visual Perception
-- 🌐 3D Point Cloud Reconstruction
-- 🎮 Robot Control Systems
-- 🏭 Intelligent Manufacturing and Industrial Robotics
+<table>
+<tr>
+<td align="center">🤖<br><b>Social Robots</b><br>Human-Robot Interaction</td>
+<td align="center">👁️<br><b>Robot Vision</b><br>Visual Perception</td>
+<td align="center">🌐<br><b>3D Reconstruction</b><br>Point Cloud Processing</td>
+<td align="center">⚙️<br><b>Robot Control</b><br>Autonomous Systems</td>
+<td align="center">🏭<br><b>Intelligent Manufacturing</b><br>Industrial Robotics</td>
+</tr>
+</table>
+
+---
 
 ---
 
@@ -32,6 +38,7 @@ My research focuses on intelligent robotic systems, including:
 📍 Hebei, China  
 
 Research Duration: **3 years**
+
 Research Laboratory: **Hebei Provincial Key Laboratory**.
 
 During my research experience at the institute, I participated in projects related to:
@@ -72,21 +79,6 @@ Major: **Network Engineering**
 
 ---
 
-# 🔬 Research Interests
-
-My current research interests include:
-
-<table>
-<tr>
-<td align="center">🤖<br><b>Social Robots</b><br>Human-Robot Interaction</td>
-<td align="center">👁️<br><b>Robot Vision</b><br>Visual Perception</td>
-<td align="center">🌐<br><b>3D Reconstruction</b><br>Point Cloud Processing</td>
-<td align="center">⚙️<br><b>Robot Control</b><br>Autonomous Systems</td>
-<td align="center">🏭<br><b>Intelligent Manufacturing</b><br>Industrial Robotics</td>
-</tr>
-</table>
-
----
 
 # 🚀 Featured Research Projects
 
