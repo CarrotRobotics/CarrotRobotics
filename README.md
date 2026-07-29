@@ -6,6 +6,7 @@
 
 Welcome to my GitHub profile!
 
+Here I share my research projects, implementations, experiments, and technical notes in robotics and artificial intelligence.
 
 ---
 
@@ -21,7 +22,25 @@ My research focuses on intelligent robotic systems, including:
 - 🎮 Robot Control Systems
 - 🏭 Intelligent Manufacturing and Industrial Robotics
 
-Before pursuing my Ph.D. in Japan, I worked as a research scientist at the **Xiong'an Innovation Institute, Chinese Academy of Sciences (CAS)** for three years, where I participated in research on **cognitive intelligence**.
+---
+
+# 💼 Work Experience
+
+## Research Scientist
+
+**Xiong'an Innovation Institute, Chinese Academy of Sciences (CAS)**  
+Hebei, China  
+
+Research Duration: **3 years**
+
+During my research experience at the institute, I participated in projects related to:
+
+- 🧠 Cognitive Intelligence
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 🌐 Intelligent Systems
+
+Research conducted under the support of a **Hebei Provincial Key Laboratory**.
 
 ---
 
