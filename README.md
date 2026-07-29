@@ -26,21 +26,21 @@ My research focuses on intelligent robotic systems, including:
 
 # 💼 Work Experience
 
-## Research Scientist
+## Assistant Research Fellow
 
 **Xiong'an Innovation Institute, Chinese Academy of Sciences (CAS)**  
-Hebei, China  
+📍 Hebei, China  
 
 Research Duration: **3 years**
+Research Laboratory: **Hebei Provincial Key Laboratory**.
 
 During my research experience at the institute, I participated in projects related to:
 
-- 🧠 Cognitive Intelligence
 - 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🌐 Intelligent Systems
+- 🌐 3D Point Cloud Reconstruction
+- 🏭 Intelligent Manufacturing and Industrial Robotics
 
-Research conducted under the support of a **Hebei Provincial Key Laboratory**.
+
 
 ---
 
