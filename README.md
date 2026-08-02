@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Xu Wang
 
-🎓 Ph.D. Student at **The University of Electro-Communications (UEC), Japan**  
+🎓 Ph.D. Student at **The University of Electro-Communications**  
 🏫 Department of **Mechanical and Intelligent Systems Engineering**  
 📍 Tokyo, Japan  
 
@@ -53,7 +53,7 @@ During my research experience at the institute, I participated in projects relat
 
 ## 🇯🇵 Ph.D. Student
 
-**The University of Electro-Communications (UEC)**  
+**The University of Electro-Communications**  
 
 Major: **Mechanical and Intelligent Systems Engineering**
 
