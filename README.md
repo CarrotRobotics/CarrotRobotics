@@ -10,7 +10,7 @@ Here I share my research projects, implementations, experiments, and technical n
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍🎓 About Research
 
 My research focuses on intelligent robotic systems, including:
 
