@@ -12,8 +12,6 @@ Here I share my research projects, implementations, experiments, and technical n
 
 ## 👨‍🎓 About Me
 
-I am **Xu Wang**, a Ph.D. student at the **University of Electro-Communications (UEC), Tokyo, Japan**.
-
 My research focuses on intelligent robotic systems, including:
 
 <table>
