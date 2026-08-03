@@ -75,8 +75,12 @@ Research Laboratory: **Beijing Key Laboratory**
 
 Major: **Network Engineering**
 
+
 ---
 
+# 📚 Publications
+
+Selected publications and research works will be updated here.
 
 # 🚀 Featured Research Projects
 
@@ -108,8 +112,5 @@ This project aims to develop an intelligent simulation platform for urban renewa
 
 By combining artificial intelligence models, population data analysis, and urban simulation technologies, the platform predicts residential allocation strategies and supports data-driven decision-making for sustainable urban development.
 
----
 
-# 📚 Publications
 
-Selected publications and research works will be updated here.
