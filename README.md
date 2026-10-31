@@ -84,13 +84,13 @@ Major: **Network Engineering**
 
 ### Conference Papers
 
-"ULAPM-SIS: Unified Latent Affective Planning Model with Social Interaction State for Text-Driven Robot Behavior-Distance Decisions."
+ULAPM-SIS: Unified Latent Affective Planning Model with Social Interaction State for Text-Driven Robot Behavior-Distance Decisions.
 
 *2026 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026)*, Bellevue, WA, USA, October 2026.
 
 ---
 
-"WeldARC: A Multi-Agent Knowledge-Driven Framework for Welding Process Parameter Recommendation and Verification."
+WeldARC: A Multi-Agent Knowledge-Driven Framework for Welding Process Parameter Recommendation and Verification.
 
 *18th Asian Conference on Machine Learning (ACML 2026)*, Melbourne, Australia, December 2026.
 
