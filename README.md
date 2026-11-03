@@ -26,8 +26,6 @@ My research focuses on intelligent robotic systems, including:
 
 ---
 
----
-
 # 💼 Work Experience
 
 ## Assistant Research Fellow
