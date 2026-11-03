@@ -75,7 +75,7 @@ Major: **Network Engineering**
 
 
 ---
-# 🏆 Honors & Funding
+# 🏆 Funding
 
 **Japan Science and Technology Agency (JST) SPRING (次世代研究者挑戦的研究プログラム) Recipient, 2026**
 
