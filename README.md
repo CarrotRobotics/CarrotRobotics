@@ -77,7 +77,13 @@ Major: **Network Engineering**
 
 
 ---
+## 🏆 Honors & Funding
 
+**Japan Science and Technology Agency (JST) SPRING (次世代研究者挑戦的研究プログラム) Recipient, 2026**
+
+*Research funding: 450,000 JPY*
+
+---
 # 📚 Publications
 
 **ULAPM-SIS: Unified Latent Affective Planning Model with Social Interaction State for Text-Driven Robot Behavior-Distance Decisions**
