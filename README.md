@@ -93,7 +93,7 @@ Major: **Network Engineering**
 ---
 **A Novel Block-Aware Registration Method for Weld-Seam Mapping on Deformed Workpieces**
 
-*Accepted for Presentation, 2026.*
+*19th International Conference on Intelligent Robotics and Applications (ICIRA 2026)*, accepted for presentation, 2026.
 
 ---
 **MS-VLMDet: Multi-Scale Feature Enhanced Vision-Language Model for Pedestrian Detection**
